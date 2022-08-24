@@ -7,7 +7,7 @@ Une collection de commande Git très utile, pas souvent connus.
 ## Contribuer ?
 
 Vous voulez aussi ajouter une commande que tu trouve utile ?  
-N'hésite pas à **[fork](https://github.com/daoodaba975/git.helpers/fork)** le projet pour ajouter ta contribution et faire un PR.
+N'hésite pas à **[fork](https://github.com/daoodaba975/git.jafewoul/fork)** le projet pour ajouter ta contribution et faire un PR.
 
 ## Créer et basculer une branch (une seule ligne)
 
