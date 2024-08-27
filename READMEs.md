@@ -4,7 +4,7 @@ A collection of very useful and little-known Git commands.
 
 Version **FR** 👉🏽 **[here](translate/README-fr.md)**
 
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
+![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)
 
 ## Contribute 🤝🏽
 

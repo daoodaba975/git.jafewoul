@@ -2,7 +2,7 @@
 
 Une collection de commandes Git très utiles et peu connues.
 
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
+![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)
 
 ## Contribuer 🤝🏽
 
