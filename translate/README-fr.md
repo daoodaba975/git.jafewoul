@@ -1,8 +1,8 @@
-# Git Jafewoul 🚀
+# Git Jafewoul ⚙️
 
-⚙️ Une collection de commandes Git très utiles et peu connues.
+Une collection de commandes Git très utiles et peu connues.
 
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
 
 ## Contribuer 🤝🏽
 
@@ -101,4 +101,18 @@ git reset HEAD^^
 ```properties
 # cela annulera sans confirmation tout votre travail
 git reset --hard HEAD^
+```
+
+### Rechercher une expression ou un mot spécifique dans les fichiers d'un dépôt Git
+
+```properties
+# pour rechercher toutes les occurrences de "hello"
+git grep "hello"
+```
+
+### fsck (File System Check) est utilisé pour vérifier l'intégrité d'un dépôt Git
+
+```properties
+# détecte et signale les objets corrompus ou les liens cassés dans le dépôt
+git fsck
 ```

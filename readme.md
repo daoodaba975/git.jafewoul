@@ -1,10 +1,10 @@
-# Git Jafewoul 🚀
+# Git Jafewoul ⚙️
 
-⚙️ A collection of very useful and little-known Git commands.
+A collection of very useful and little-known Git commands.
 
-Version **FR** 👉🏽 [here](translate/fr.md) 👈🏽
+Version **FR** 👉🏽 **[here](translate/README-fr.md)**
 
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
 
 ## Contribute 🤝🏽
 
@@ -103,4 +103,18 @@ git reset HEAD^^
 ```properties
 # this will unconfirm all your work
 git reset --hard HEAD^
+```
+
+### Search for a specific word or phrase in the files of a Git repository
+
+```properties
+# to search for all occurrences of "hello"
+git grep "hello"
+```
+
+### fsck (File System Check) is used to verify the integrity of a Git repository
+
+```properties
+# detects and reports corrupted objects or broken links in the repository
+git fsck
 ```
