@@ -14,7 +14,9 @@ Feel free to **[fork](https://github.com/daoodaba975/git.jafewoul/fork)** the pr
 ### Create and switch a branch (one line)
 
 ```properties
-git checkout -b name_of_my_new_branch
+git checkout -b new_branch
+# or
+git switch -c new_branch
 ```
 
 ### Delete a branch present on the remote repo
@@ -23,6 +25,12 @@ git checkout -b name_of_my_new_branch
 git push origin --delete
 # after
 name_of_my_remote_branch
+```
+
+### Rename an existing branch
+
+```properties
+git branch -m old_branch new_branch
 ```
 
 ### Update the local repository of a specific branch

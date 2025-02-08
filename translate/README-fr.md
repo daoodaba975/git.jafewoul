@@ -12,7 +12,9 @@ N'hésitez pas à **[fork](https://github.com/daoodaba975/git.jafewoul/fork)** l
 ### Créer et basculer une branch (une seule ligne)
 
 ```properties
-git checkout -b nom_de_ma_branch_nouvelle
+git checkout -b nouvelle_branch
+# ou
+git switch -c nouvelle_branch
 ```
 
 ### Supprimer une branch présente sur le repo distant
@@ -21,6 +23,12 @@ git checkout -b nom_de_ma_branch_nouvelle
 git push origin --delete
 # ensuite
 nom_de_ma_branch_distante
+```
+
+### Renommer une branche existante
+
+```properties
+git branch -m old_branch new_branch
 ```
 
 ### Mettre à jour le dépôt local d'une branch spécifique
