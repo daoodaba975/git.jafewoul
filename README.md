@@ -11,6 +11,13 @@ Version **FR** 👉🏽 **[here](translate/README-fr.md)**
 Also want to add a command that you find useful ?  
 Feel free to **[fork](https://github.com/daoodaba975/git.jafewoul/fork)** the project to add your contribution ✨
 
+### Configure your name and email
+
+```properties
+git config --global user.name "your_username"
+git config --global user.email your_email_address
+```
+
 ### Create and switch a branch (one line)
 
 ```properties

@@ -9,6 +9,13 @@ Une collection de commandes Git très utiles et peu connues.
 Vous voulez aussi ajouter une commande que vous trouvez utile ?  
 N'hésitez pas à **[fork](https://github.com/daoodaba975/git.jafewoul/fork)** le projet pour ajouter votre contribution ✨
 
+### Configurer votre nom et votre e-mail
+
+```properties
+git config --global user.name "votre_nom_utilisateur"
+git config --global user.email votre_adresse-email
+```
+
 ### Créer et basculer une branch (une seule ligne)
 
 ```properties
